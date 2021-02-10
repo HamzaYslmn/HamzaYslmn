@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  
 <p><img align="left" src="https://github-readme-stats-phi-flax.vercel.app/api/top-langs?username=hamzayslmn&show_icons=true&locale=en&layout=compact" alt="hamzayslmn" /></p>
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=hamzayslmn&show_icons=true&hide_border=false&count_private=true&theme=gruvbox&title_color=f11000&text_color=f11000&icon_color=00bcff&bg_color=eeeeee">
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=hamzayslmn&show_icons=true&hide_border=false&count_private=true&theme=gruvbox&title_color=ffffff&text_color=ffffff&icon_color=00bcff&bg_color=eeeeee">
 
  
 
