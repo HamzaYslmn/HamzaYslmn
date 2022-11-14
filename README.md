@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Mechatronic Engineer ,Developer and Freelancer!!</h3>  
 
+<h2>I'm a scientist. Because I invent, transform, create, and destroy for a living and when I don't like something about the world, I change it.</h2> 
+
 
  ### Connect with me:
 <a href="https://instagram.com/hamzayslmn">
