@@ -24,7 +24,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   
-  <a href="https://linkedin.com/in/hamzayslmn" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="hamzayslmn" height="30" width="" /></a>  
+  <a href="https://linkedin.com/in/hamzayslmn" target="blank"><img align="" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="hamzayslmn" height="30" width="" />
+   <a href="https://www.buymeacoffee.com/hamzayslmn">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+  </a>
   
   ### Spotify Playing 🎧
 
