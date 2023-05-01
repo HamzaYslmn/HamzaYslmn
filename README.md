@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-lac.vercel.app/api/spotify)](https://open.spotify.com/user/teccno-0)
+[![Spotify](https://novatorem-e4blwpur0-hamzayslmn.vercel.app/api/spotify)](https://open.spotify.com/user/teccno-0)
   
 
 
