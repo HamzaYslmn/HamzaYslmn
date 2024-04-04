@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaYslmn&label=Profile%20views&color=0e75b6&style=flat" alt="asdsec" /> </p>
+
+
+
  ### Connect with me:
 <a href="https://instagram.com/hamzayslmn">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
