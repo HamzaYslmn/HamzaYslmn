@@ -20,9 +20,7 @@
 
 ###
 
-𒉭 
-
-"I'm a scientist. Because I invent, transform, create, and destroy for a living and when I don't like something about the world, I change it."
+"I'm a scientist. Because I invent, transform, create, and destroy for a living and when I don't like something about the world, I change it." 𒉭 
   
 ###
 
