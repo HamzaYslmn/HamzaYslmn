@@ -25,8 +25,9 @@
 ###
 
 <h3 align="left">Spotify Playing 🎧</h3>
-
-[![Spotify](https://novatorem-hamzayslmn.vercel.app/api/spotify)](https://open.spotify.com/user/teccno-0)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-hamzayslmn.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/user/teccno-0))
+</div>
 
 
 ### 
