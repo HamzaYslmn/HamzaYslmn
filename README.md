@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🔭 Research & Development Engineer 🤖</h3>
+<h3 align="left">🔭 Maker 🤖</h3>
 
 ###
 
