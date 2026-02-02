@@ -94,3 +94,13 @@
 <img src="https://raw.githubusercontent.com/HamzaYslmn/HamzaYslmn/output/snake.svg" alt="" />
 
 ###
+
+
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@@hamzayslmn?name=%40hamzayslmn&theme=rule34&padding=7&offset=0&align=bottom&scale=1&pixelated=1&darkmode=0">
+  </a>
+</p>
+
+
+###
