@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://linkedin.com/in/hamzayslmn" target="blank"><img align="" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="hamzayslmn" height="30" width="" />
   <a href="https://www.youtube.com/@HmzaY" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="https://www.buymeacoffee.com/hamzayslmn"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" /></a>
 </div>
 
 ###
