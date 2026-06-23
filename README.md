@@ -11,7 +11,10 @@
 <a href="https://hamzayslmn.github.io/#contact" target="_blank"><img src="https://img.shields.io/static/v1?message=Contact%20me&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="26" alt="contact" /></a>
 <a href="https://www.linkedin.com/in/hamzayslmn" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="26" alt="linkedin" /></a>
 <a href="https://www.youtube.com/@HmzaY" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="26" alt="youtube" /></a>
-<a href="https://www.buymeacoffee.com/hamzayslmn" target="_blank"><img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="26" alt="bmc" /></a>
+
+<!--
+<a href="https://www.buymeacoffee.com/hamzayslmn" target="_blank"><img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="26" alt="bmc" /></a> 
+-->
 
 <img src="https://komarev.com/ghpvc/?username=HamzaYslmn&style=flat&color=58a6ff&label=Profile+views" alt="views" />
 
