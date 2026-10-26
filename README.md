@@ -28,7 +28,7 @@ I bridge **hardware and software**: production **LLM / RAG / AI-agent (MCP)** sy
 
 ### ⚡ Highlights
 
-- 🛡️ Contributed an [**accepted patch to NVIDIA Jetson Linux**](https://forums.developer.nvidia.com/t/fix-jetson-io-py-crashes-due-to-brittle-lsblk-parsing-logic-valueerror/357222) (`jetson-io.py` crash fix)
+- 🛡️ Contributed an [**accepted patch to NVIDIA Jetson Linux**](https://forums.developer.nvidia.com/t/fix-jetson-io-py-crashes-due-to-brittle-lsblk-parsing-logic-valueerror/357222) 
 - 🔐 **USOM-confirmed** security researcher (responsible disclosure, Türkiye National Cybersecurity Authority)
 
 <!-- ───────────────────────────  PROJECTS (interactive)  ─────────────────────────── -->
